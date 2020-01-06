@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE-ShipController", "SE-ShipController\SE-ShipController.csproj", "{281950C5-373F-447F-9E3D-8B6318CDF53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281950C5-373F-447F-9E3D-8B6318CDF53A}.Debug|x64.ActiveCfg = Debug|x64
+		{281950C5-373F-447F-9E3D-8B6318CDF53A}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {505C65B8-D2AD-4727-9922-963255E4B88A}
+	EndGlobalSection
+EndGlobal
